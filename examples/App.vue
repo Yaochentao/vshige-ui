@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <router-link to="/swipe-tab">swipe-tab</router-link>
+    <router-link to="/touch-flipbook">touch-flipbook</router-link>
     <router-view></router-view>
   </div>
 </template>
